@@ -1,4 +1,4 @@
-package io.github.iamtwang.aop.nolib;
+package io.github.iamtwang.aop;
 
 /**
  * @author Tao
