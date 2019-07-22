@@ -1,0 +1,13 @@
+<beans>
+    <bean id="school" class="io.github.iamtwang.ioc.pojo.School">
+        <property name="name" value="St Joseph School" />
+        <property name="address" value="UK" />
+
+    </bean>
+
+    <bean id="student" class="io.github.iamtwang.ioc.pojo.Student">
+        <property name="name" value="YIFAN"/>
+        <property name="gender" value="Male" />
+        <property name="school" ref="school"/>
+    </bean>
+</beans>
