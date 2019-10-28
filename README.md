@@ -2,7 +2,7 @@
 
 A **Sample** of Spring IoC and AOP.  Good for Java Starters
 
-
+```
 # rebind prefix key to C-x
 unbind C-b
 set -g prefix C-a
@@ -35,5 +35,5 @@ bind -n M-4 select-pane -t 4
 
 bind -n M-s setw synchronize-panes on
 bind -n M-d setw synchronize-panes off
-
+```
 
