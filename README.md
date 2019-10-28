@@ -1,4 +1,7 @@
-# toy-ioc-aop
+# Toy IOC and AOP
+
+A **Sample** of Spring IoC and AOP.  Good for Java Starters
+
 
 # rebind prefix key to C-x
 unbind C-b
@@ -8,7 +11,6 @@ bind C-a send-prefix
 # Start windows and panes at 1, not 0
 set -g base-index 1
 set -g pane-base-index 1
-
 set-window-option -g automatic-rename on
 set-option -g set-titles on
 set-window-option -g window-status-current-bg red
@@ -33,3 +35,5 @@ bind -n M-4 select-pane -t 4
 
 bind -n M-s setw synchronize-panes on
 bind -n M-d setw synchronize-panes off
+
+
